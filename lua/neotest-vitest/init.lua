@@ -1,3 +1,4 @@
+--
 ---@diagnostic disable: undefined-field
 local async = require("neotest.async")
 local lib = require("neotest.lib")
